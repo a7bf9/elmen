@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2f548b2-9bcc-4de9-b6ec-4de050d162f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/elmen/polls/templates/polls/detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elmen/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/elmen/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +37,20 @@
       <option name="presentableId" value="Default" />
       <updated>1598113051317</updated>
       <workItem from="1598113053097" duration="3480000" />
-      <workItem from="1598553412413" duration="1404000" />
+      <workItem from="1598553412413" duration="1449000" />
+      <workItem from="1598728284072" duration="1371000" />
+      <workItem from="1598804782318" duration="538000" />
+      <workItem from="1599299002505" duration="18000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2065" y="78" width="670" height="676" key="search.everywhere.popup" timestamp="1598728687974">
+      <screen x="1440" y="-157" width="1920" height="1057" />
+    </state>
+    <state x="2065" y="78" width="670" height="676" key="search.everywhere.popup/1440.-157.1920.1057/0.23.1440.846@1440.-157.1920.1057" timestamp="1598728687974" />
   </component>
 </project>
